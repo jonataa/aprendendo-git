@@ -27,6 +27,8 @@ $ git checkout -- <file> # Desfaz as mudanças
 
 ```shell
 $ git checkout -b <name> # Cria e faz checkout na nova branch
+# ou
+$ git branch <name>      # Cria uma nova branch
 $ git checkout <name>    # Alterna entre as branchs
 ```
 
