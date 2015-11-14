@@ -22,3 +22,10 @@ $ git log --full-diff -p README.md
 ```shell
 $ git checkout -- <file> # Desfaz as mudanças
 ```
+
+## Trabalhando com Branchs
+
+```shell
+$ git checkout -b <name> # Cria e faz checkout na nova branch
+$ git checkout <name> # Alterna entre as branchs
+```
