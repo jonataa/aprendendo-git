@@ -40,3 +40,10 @@ $ git tag -a v0.0.1 -m 'texto qualquer' # adiciona uma nova tag
 $ git show v0.0.1                       # mostra os detalhes da tag
 $ git tag -d v0.0.1                     # apaga uma tag
 ```
+
+## Primeiro Push
+
+```shell
+$ git remote add origin <url>
+$ git push -u origin master   # somente a primeira vez
+```
