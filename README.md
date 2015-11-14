@@ -45,5 +45,5 @@ $ git tag -d v0.0.1                     # apaga uma tag
 
 ```shell
 $ git remote add origin <url>
-$ git push -u origin master
+$ git push -u origin master   # somente a primeira vez
 ```
