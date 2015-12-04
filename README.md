@@ -47,3 +47,7 @@ $ git tag -d v0.0.1                     # apaga uma tag
 $ git remote add origin <url>
 $ git push -u origin master   # somente a primeira vez
 ```
+
+uhauhuhauhauhua
+uahauhauahuahauh
+ahsuahsaushuash
